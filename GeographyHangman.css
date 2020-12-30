@@ -7,11 +7,11 @@ canvas{
 
 
 h1 {
-	padding-left: 57px;
-	padding-right: 57px;
-	padding-top: 5px;
-	padding-bottom: 5px;
-	margin-bottom: 0;
+   padding-left: 57px;
+   padding-right: 57px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   margin-bottom: 0;
 }
 
 
@@ -31,16 +31,16 @@ button {
 }
 
 button:hover{
-	color:lightgrey;
+   color:lightgrey;
 }
 .newinline{
-	display: inline;
-    font-size: 16px;
-	padding: 15px 20px;
-	margin-right: 2px;
-	font-family: sans-serif;
-	border: solid 1px;
-	background-color: lightgrey;
+   display: inline;
+   font-size: 16px;
+   padding: 15px 20px;
+   margin-right: 2px;
+   font-family: sans-serif;
+   border: solid 1px;
+   background-color: lightgrey;
 }
 #feedbackPara{
 	margin-top: 10px;
